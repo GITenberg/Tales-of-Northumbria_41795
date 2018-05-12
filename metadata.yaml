@@ -1,0 +1,30 @@
+_repo: Tales-of-Northumbria_41795
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41795-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pease, Howard
+    birthdate: 1863
+    deathdate: 1928
+    gutenberg_agent_id: '32697'
+    url: http://www.gutenberg.org/2009/agents/32697
+description: ''
+gutenberg_issued: '2013-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- England -- Northumberland'
+- !lcc 'GR'
+tableOfContents: Northumberland -- 'A long main' -- The squire's last ride -- À l'outrance
+  -- 'T'owd squire' -- An 'ammytoor' detective -- 'In memoriov'm' -- 'The heckler'
+  upon womenfolk -- The 'Caleb Jay' -- Geordie Armstrong 'the Jesu-yte' -- 'Geordie
+  ride-the-stang' -- Yankee Bill and Quaker John -- The protégé -- The Spanish doubloon.
+title: Tales of Northumbria
+url: http://www.gutenberg.org/ebooks/41795
